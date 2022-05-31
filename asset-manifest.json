@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mipagina/static/css/main.462986e2.css",
+    "main.js": "/mipagina/static/js/main.ccab8ccf.js",
+    "static/js/787.a9cadf70.chunk.js": "/mipagina/static/js/787.a9cadf70.chunk.js",
+    "static/media/CV Agustin Ledezma mayo 2022.pdf": "/mipagina/static/media/CV Agustin Ledezma mayo 2022.42a9201bb44bb72183cb.pdf",
+    "static/media/logoCSS3.png": "/mipagina/static/media/logoCSS3.74ff0b5fd86f9eadddd3.png",
+    "static/media/logoSpring.png": "/mipagina/static/media/logoSpring.1493cea40dd5502e5ac7.png",
+    "static/media/miniaturagithub.png": "/mipagina/static/media/miniaturagithub.53ebe5897a7230413bab.png",
+    "static/media/logobootstrap.png": "/mipagina/static/media/logobootstrap.f132cb791703420e69ca.png",
+    "static/media/logoMySQL.png": "/mipagina/static/media/logoMySQL.0fa268260d693783ed38.png",
+    "static/media/logojava.png": "/mipagina/static/media/logojava.5d5cffa04d820ba0644c.png",
+    "static/media/fondo.jpg": "/mipagina/static/media/fondo.5ee5c6a64da3452f0a0c.jpg",
+    "static/media/miniaturalinkedin.png": "/mipagina/static/media/miniaturalinkedin.668fe687f5d2082add1c.png",
+    "static/media/miniaturamail.png": "/mipagina/static/media/miniaturamail.8290363d46a61e32ce09.png",
+    "static/media/logoGithub.png": "/mipagina/static/media/logoGithub.69ffd9cd5a846c976177.png",
+    "static/media/logogl.jpg": "/mipagina/static/media/logogl.670fd45ffb550273ba2b.jpg",
+    "static/media/logojdbc.png": "/mipagina/static/media/logojdbc.cda020dfbfb2a6a94432.png",
+    "index.html": "/mipagina/index.html",
+    "main.462986e2.css.map": "/mipagina/static/css/main.462986e2.css.map",
+    "main.ccab8ccf.js.map": "/mipagina/static/js/main.ccab8ccf.js.map",
+    "787.a9cadf70.chunk.js.map": "/mipagina/static/js/787.a9cadf70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.462986e2.css",
+    "static/js/main.ccab8ccf.js"
+  ]
+}
