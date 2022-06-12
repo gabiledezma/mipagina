@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mipagina/static/css/main.462986e2.css",
-    "main.js": "/mipagina/static/js/main.00ddd954.js",
+    "main.js": "/mipagina/static/js/main.7c1031e2.js",
     "static/js/787.a9cadf70.chunk.js": "/mipagina/static/js/787.a9cadf70.chunk.js",
     "static/media/CV Agustin Ledezma Junio 2022.pdf": "/mipagina/static/media/CV Agustin Ledezma Junio 2022.e0e45e0faf8f9dda818e.pdf",
     "static/media/logoCSS3.png": "/mipagina/static/media/logoCSS3.74ff0b5fd86f9eadddd3.png",
@@ -18,11 +18,11 @@
     "static/media/logojdbc.png": "/mipagina/static/media/logojdbc.cda020dfbfb2a6a94432.png",
     "index.html": "/mipagina/index.html",
     "main.462986e2.css.map": "/mipagina/static/css/main.462986e2.css.map",
-    "main.00ddd954.js.map": "/mipagina/static/js/main.00ddd954.js.map",
+    "main.7c1031e2.js.map": "/mipagina/static/js/main.7c1031e2.js.map",
     "787.a9cadf70.chunk.js.map": "/mipagina/static/js/787.a9cadf70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.462986e2.css",
-    "static/js/main.00ddd954.js"
+    "static/js/main.7c1031e2.js"
   ]
 }
